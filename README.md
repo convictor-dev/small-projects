@@ -1,2 +1,5 @@
-# small-projects
-Repositório para meus pequenos projetos.
+# 🧛‍♀️ Alguns pequenos projetos que desenvolvi.
+
+**`Repositório de projetinhos`**
+
+---
